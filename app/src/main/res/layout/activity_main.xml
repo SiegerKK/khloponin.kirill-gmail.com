@@ -6,7 +6,7 @@
     android:orientation="vertical">
 
     <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/recyclerViewContactMessages"
+        android:id="@+id/rvContacts"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         tools:listitem="@layout/item_contact_message"/>
